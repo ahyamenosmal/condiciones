@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.nav,
+a {
+  margin-left: 60px;
+  margin-top: 30px;
+  text-decoration: none;
+}
+
+.caja {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  display: flex;
+}
+
+input {
+  display: flex;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.boton {
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.nav,
+a {
+  margin-left: 60px;
+  margin-top: 30px;
+  text-decoration: none;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.boton {
+  display: flex;
+  justify-content: center;
+}
+
+.seleccion {
+  display: flex;
+  justify-content: center;
+}
